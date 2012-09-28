@@ -66,18 +66,24 @@ Transportation*    1.13 * 1260$ = 1423.80$
 ### Quotations.
 There is only one quotation applicable to this project; the transportation.  We contacted _Delaney_, _Tour Monde Transport_ and _Germain Bus Agency_.
 <table>
-<td>
-	<tr>Company</tr><tr>Price</tr> <tr>Details</tr>
-</td>
-<td>
-	<tr>Delaney</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
-</td>
-<td>
-	<tr>Tour Monde Transport</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
-</td>
-<td>
-	<tr>Germain Bus Agency</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
-</td>
+<tr>
+	<td>Company</td>
+	<td>Delaney</td>
+	<td>Tour Monde Transport</td>
+	<td>Germain Bus Agency</td>
+</tr> 
+<tr>
+	<td>Price</td>
+	<td>??? $</td>
+	<td>??? $</td>
+	<td>??? $</td>
+</tr>
+<tr>
+	<td>Detail</td>
+	<td>Waiting for answer.</td>
+	<td>Waiting for answer.</td>
+	<td>Waiting for answer.</td>
+</tr>
 </table>
 ### Other avenues of funding.
 We will try to get sponsorship from local companies.
