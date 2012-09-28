@@ -29,3 +29,8 @@ Resolved that Faculty Council encourages the involvement of students in extracur
 * The above accommodations are distinct from, and should be considered additional to, those requested by the co-op office for co-op interviews.
 
 * When a large group of students expect to attend the same extra-curricular event together, they are requested to inform the department/school chair/director who can then assist them by informing all faculty members of the need for accommodation.
+
+### Credits
+[_Dr. Timothy C. Lethbridge_][1] deserves all credits for this text.
+
+[1]: http://www.site.uottawa.ca/~tcl/
