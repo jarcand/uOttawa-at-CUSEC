@@ -45,7 +45,7 @@ My goal is to bring so many uOttawa students to CUSEC that all the other delegat
 * __The maximum amount that can be requested is $9 000.00.__ We request $8 782.00.
 * __The EEF cannot pay for food or drink.__ The cost estimate doesn't include food or drink, and the fund received will not be used for such expenses.
 
-## Ptomotion/Marketing
+## Promotion/Marketing
 * The conference is actively promoted on Facebook, where 22 students already demonstrated their intention to attend.
 * As more speakers and sponsors are confirmed for the conference, we will start to give short presentation about CUSEC to students at the beginning of their classes.
 * We expect active support from the professors, asking for their help by accommodating delegates and by recommending the conference to their students.
@@ -53,5 +53,20 @@ My goal is to bring so many uOttawa students to CUSEC that all the other delegat
 ## Funding details
 ### Budget.
 ### Quotations.
+There is only one quotation applicable to this project; the transportation.  We contacted _Delaney_, _Tour Monde Transport_ and _Germain Bus Agency_.
+<table>
+<td>
+	<tr>Company</tr><tr>Price</tr> <tr>Details</tr>
+</td>
+<td>
+	<tr>Delaney</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
+</td>
+<td>
+	<tr>Tour Monde Transport</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
+</td>
+<td>
+	<tr>Germain Bus Agency</tr><tr>??? $</tr> <tr>Waiting for answer.</tr>
+</td>
+</table>
 ### Other avenues of funding.
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/Motion.md
