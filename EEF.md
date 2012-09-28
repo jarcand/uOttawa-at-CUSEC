@@ -55,4 +55,4 @@ My goal is to bring so many uOttawa students to CUSEC that all the other delegat
 ### Budget.
 ### Quotations.
 ### Other avenues of funding.
-[1]: http://link.to/motion_markdown/file
+[1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/Motion.md
