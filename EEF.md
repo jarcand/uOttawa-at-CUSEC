@@ -2,7 +2,6 @@
 ## General information
 ### Contact : Antoine Grondin
 ####uOttawa Head Delegate
-####613-709-1004
 #### Email [ottawa@cusec.net](mailto:ottawa@cusec.net)
 ####Website [2013.cusec.net](http://2013.cusec.net)
 
