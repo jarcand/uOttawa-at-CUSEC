@@ -63,6 +63,7 @@ Transportation*    1.13 * 1260$ = 1423.80$
 		  
 ```
 * Estimate from previous years (similar from 2010 to 2012)
+
 ### Quotations.
 There is only one quotation applicable to this project; the transportation.  We contacted _Delaney_, _Tour Monde Transport_ and _Germain Bus Agency_.
 <table>
@@ -85,6 +86,7 @@ There is only one quotation applicable to this project; the transportation.  We 
 	<td>Waiting for answer.</td>
 </tr>
 </table>
+
 ### Other avenues of funding.
 We will try to get sponsorship from local companies.
 
