@@ -117,13 +117,13 @@ _Germain Bus Agency_.
 </tr> 
 <tr>
 	<td>Price</td>
-	<td>??? $</td>
+	<td>1864 $</td>
 	<td>??? $</td>
 	<td>??? $</td>
 </tr>
 <tr>
 	<td>Detail</td>
-	<td>Waiting for answer.</td>
+	<td>932$ per trip</td>
 	<td>Waiting for answer.</td>
 	<td>Waiting for answer.</td>
 </tr>
