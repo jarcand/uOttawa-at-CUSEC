@@ -1,3 +1,4 @@
+```
 At 1 students, we get 100% refund (costs 0$ each)
 At 2 students, we get 100% refund (costs 0$ each)
 At 3 students, we get 100% refund (costs 0$ each)
@@ -174,3 +175,4 @@ At 173 students, we get 2% refund (costs 176.53$ each)
 At 174 students, we get 3% refund (costs 175.86$ each)
 At 175 students, we get 3% refund (costs 175.2$ each)
 At 176 students, we get 2% refund (costs 177.29$ each)
+```
