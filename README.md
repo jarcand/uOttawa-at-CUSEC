@@ -28,7 +28,7 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
 [3]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/EEF.md
 [4]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/EEF_Form.pdf
 [5]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/EEF_Results_CUSEC.pdf
-[6]: 
+[6]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/EEF_Results_(Dean)_CUSEC.pdf
 [7]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/eef_presentation.pdf
 [8]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/draft_motion.md
 [9]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/2012-04FacultyCouncilMinutes-Oct16.pdf
