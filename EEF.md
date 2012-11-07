@@ -112,20 +112,17 @@ _Germain Bus Agency_.
 <tr>
 	<td>Company</td>
 	<td>Delaney</td>
-	<td>Tour Monde Transport</td>
-	<td>Germain Bus Agency</td>
+	<td>First Student Canada</td>
 </tr> 
 <tr>
 	<td>Price</td>
 	<td>1864 $</td>
-	<td>??? $</td>
-	<td>??? $</td>
+	<td>1470.29 $</td>
 </tr>
 <tr>
 	<td>Detail</td>
 	<td>932$ per trip</td>
-	<td>Waiting for answer.</td>
-	<td>Waiting for answer.</td>
+	<td>650.57 (+HST) per trip.</td>
 </tr>
 </table>
 
