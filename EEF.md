@@ -106,23 +106,25 @@ Transportation*    1.13 * 1260$ = 1423.80$
 
 ### Quotations.
 There is only one quotation applicable to this project; the
-transportation.  We contacted _Delaney_, _Tour Monde Transport_ and
-_Germain Bus Agency_.
+transportation.  We contacted _Delaney_, First Student and 417 Bus Line.
 <table>
 <tr>
 	<td>Company</td>
 	<td>Delaney</td>
 	<td>First Student Canada</td>
+	<td>417 Bus Line Ltd.</td>
 </tr> 
 <tr>
 	<td>Price</td>
 	<td>1864 $</td>
 	<td>1470.29 $</td>
+	<td>1582.00 $</td>
 </tr>
 <tr>
 	<td>Detail</td>
 	<td>932$ per trip</td>
 	<td>650.57 (+HST) per trip.</td>
+	<td>// nothing</td>
 </tr>
 </table>
 
