@@ -113,18 +113,21 @@ transportation.  We contacted _Delaney_, First Student and 417 Bus Line.
 	<td>Delaney</td>
 	<td>First Student Canada</td>
 	<td>417 Bus Line Ltd.</td>
+	<td>Leduc</td>
 </tr> 
 <tr>
 	<td>Price</td>
 	<td>1864 $</td>
 	<td>1470.29 $</td>
 	<td>1582.00 $</td>
+	<td>1356.00 $</td>
 </tr>
 <tr>
 	<td>Detail</td>
 	<td>932$ per trip</td>
 	<td>650.57 (+HST) per trip.</td>
-	<td>// nothing</td>
+	<td>Note</td>
+	<td>None</td>
 </tr>
 </table>
 
