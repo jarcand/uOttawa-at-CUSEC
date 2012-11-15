@@ -11,14 +11,22 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md
 [2]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_per_student.rb
 
+## Courses and Prof that I will contact
+
+* SEG4145
+    * Dan Ionescu
+* CSI4106
+    * Unassigned
+* CEG4190
+    * Dimitrios Makrakis
+   
+
 ## Funding
 
 * Presentation to EEF : [here][7]
 * EEF application: [here][3] and [here][4]
   * EEF funds: [3233.62$][5]
   * Dean's funds: [5390.18$][6]
-
-
 
 ## Support from Faculty
 
