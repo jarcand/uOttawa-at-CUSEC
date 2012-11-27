@@ -311,3 +311,57 @@ ITI1521 A (January 07 - April 09) with prof Marcel Turcotte has activities:
 	Friday: Laboratory 2 at STE 0130 from 11:30 to 14:30
 	Friday: Laboratory 3 at STE 2052 from 17:30 to 20:30
 
+Searching for courses of ITI taking place on tuesday.
+ITI1100 A (January 07 - April 09) with prof Ahmed Karmouch has activities:
+	Tuesday: Lecture 1 at STE G0103 from 13:00 to 14:30
+	Thursday: Lecture 2 at STE G0103 from 11:30 to 13:00
+	Thursday: Discussion Group 1 at DMS 1130 from 17:30 to 19:00
+	Wednesday: Discussion Group 2 at LEE A131 from 11:30 to 13:00
+	Thursday: Laboratory 1 at CBY B302 from 19:00 to 22:00
+	Wednesday: Laboratory 2 at CBY B302 from 14:30 to 17:30
+	Friday: Laboratory 3 at CBY B302 from 17:30 to 20:30
+
+ITI1100 B (January 07 - April 09) with prof Hasan Ural has activities:
+	Tuesday: Lecture 1 at FSS 1007 from 14:30 to 16:00
+	Friday: Lecture 2 at FSS 1007 from 16:00 to 17:30
+	Thursday: Discussion Group 1 at VNR 3075 from 17:30 to 19:00
+	Wednesday: Discussion Group 2 at FTX 302 from 11:30 to 13:00
+	Tuesday: Laboratory 1 at CBY B302 from 19:00 to 22:00
+	Wednesday: Laboratory 2 at CBY B302 from 19:00 to 22:00
+	Tuesday: Laboratory 3 at CBY B302 from 08:30 to 11:30
+
+ITI1120 C (January 07 - April 09) with prof Diana Inkpen has activities:
+	Monday: Lecture 1 at FSS 1030 from 13:00 to 14:30
+	Wednesday: Lecture 2 at FSS 1030 from 11:30 to 13:00
+	Tuesday: Laboratory 1 at STE 2060 from 14:30 to 17:30
+	Wednesday: Laboratory 2 at STE 0130 from 14:30 to 17:30
+
+ITI1121 B (January 07 - April 09) with prof Marcel Turcotte has activities:
+	Tuesday: Lecture 1 at STE B0138 from 10:00 to 11:30
+	Thursday: Lecture 2 at STE B0138 from 08:30 to 10:00
+	Saturday: Laboratory 1 at STE 2060 from 09:00 to 12:00
+	Monday: Laboratory 2 at STE 0131 from 19:00 to 22:00
+	Tuesday: Laboratory 3 at STE 0130 from 14:30 to 17:30
+	Tuesday: Laboratory 4 at STE 0131 from 14:30 to 17:30
+	Friday: Laboratory 5 at STE 0130 from 17:30 to 20:30
+
+ITI1500 A (January 07 - April 09) with prof Ahmed Karmouch has activities:
+	Monday: Lecture 1 at SCS E217 from 11:30 to 13:00
+	Thursday: Lecture 2 at SCS E217 from 13:00 to 14:30
+	Friday: Laboratory 1 at CBY B302 from 08:30 to 11:30
+	Tuesday: Tutorial 1 at LMX 221 from 08:30 to 10:00
+
+ITI1520 A (September 05 - December 05) with prof Gilbert Arbez has activities:
+	Monday: Lecture 1 at VNR 2095 from 16:00 to 17:30
+	Wednesday: Lecture 2 at VNR 2095 from 14:30 to 16:00
+	Tuesday: Laboratory 1 at STE 2060 from 11:30 to 14:30
+	Wednesday: Laboratory 2 at STE 0131 from 11:30 to 14:30
+	Wednesday: Laboratory 3 at STE 2052 from 11:30 to 14:30
+
+ITI1521 A (January 07 - April 09) with prof Marcel Turcotte has activities:
+	Monday: Lecture 1 at LPR 155 from 13:00 to 14:30
+	Wednesday: Lecture 2 at LPR 155 from 11:30 to 13:00
+	Tuesday: Laboratory 1 at STE 2052 from 19:00 to 22:00
+	Friday: Laboratory 2 at STE 0130 from 11:30 to 14:30
+	Friday: Laboratory 3 at STE 2052 from 17:30 to 20:30
+
