@@ -13,20 +13,26 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
 
 ## Courses and Prof that I will contact
 
-* SEG4145
-    * Dan Ionescu
-* CSI4106
-    * Unassigned
-* CEG4190
-    * Dimitrios Makrakis
-* SEG 2106
-   * Gregor Bochmann
-* SEG 2911
-   * Tim Lethbridge
-* MAT 2377
-   * Karelyn Davis
-* CSI 2101
-   * Viktor Herna
+* Dan Ionescu, SEG4145
+* Dimitrios Makrakis, CEG4190
+* Gregor v. Bochmann, SEG2106
+* Timothy Lethbridge, SEG/CEG/ELG2911
+* Karelyn Davis, MAT2377
+* Herna Viktor, CSI2101 and CSI2132
+* Ahmed Kharmouch, ITI1500
+* Mountassir M'Hammed, MAT2777
+* Joseph Khoury, MAT1748
+* Matthew McLennan, PHI2794
+* Christian Gigault, PHY2723
+* Liam Peyton, SEG4910
+* Rafael Falcon, CSI4106
+* Emad Gad, ELG2136
+* Claude Théoret, ECO1102
+* Omar Badreddin, CSI2120
+* Omar Badreddin, CSI2120
+* Nejib Zaguia, CSI2501
+* Robert Laganière, CSI2520
+* Fadi Malek, CSI2532
 
 ## Funding
 
