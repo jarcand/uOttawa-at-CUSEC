@@ -13,26 +13,29 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
 
 ## Courses and Prof that I __already__ have contacted
 
-* Dan Ionescu, SEG4145
-* Dimitrios Makrakis, CEG4190
-* Gregor v. Bochmann, SEG2106
-* Timothy Lethbridge, SEG/CEG/ELG2911
-* Karelyn Davis, MAT2377
-* Herna Viktor, CSI2101 and CSI2132
-* Ahmed Kharmouch, ITI1500
-* Mountassir M'Hammed, MAT2777
-* Joseph Khoury, MAT1748
-* Matthew McLennan, PHI2794
-* Christian Gigault, PHY2723
-* Liam Peyton, SEG4910
-* Rafael Falcon, CSI4106
-* Emad Gad, ELG2136
-* Claude Théoret, ECO1102
-* Omar Badreddin, CSI2120
-* Omar Badreddin, CSI2120
-* Nejib Zaguia, CSI2501
-* Robert Laganière, CSI2520
-* Fadi Malek, CSI2532
+* __SEG4145__, Dan Ionescu
+* __CEG4190__, Dimitrios Makrakis
+* __SEG2106__, Gregor v. Bochmann
+* __SEG/CEG/ELG2911__, Timothy Lethbridge
+   * Answered: _I will end the class at 18:15 that day, and will tell people I want them to come. [...] at the same time, part of the deal is that they should come from 4 to 6:15._
+* __MAT2377__, Karelyn Davis
+* __CSI2101 and CSI2132__, Herna Viktor
+* __ITI1500__, Ahmed Kharmouch
+* __MAT2777__, Mountassir M'Hammed
+* __MAT1748__, Joseph Khoury 
+* __PHI2794__, Matthew McLennan
+* __PHY2723__, Christian Gigault
+* __SEG4910__, Liam Peyton
+* __CSI4106__, Rafael Falcon
+* __ELG2136__, Emad Gad 
+* __ECO1102__, Claude Théoret
+* __CSI2120__, Omar Badreddin
+    * Answered: _I acknowledge your email. Thank you. Please send me the list of participating students once the registration period closes._
+* __CSI2501__, Nejib Zaguia 
+* __CSI2520__, Robert Laganière
+    * Answered: _Thanks for informing me. I will take this into account_
+* __CSI2532__, Fadi Malek
+    * Amswered: _Bonjour Antoine, tu m'enverras la liste en Janvier svp!_
 
 ## Funding
 
