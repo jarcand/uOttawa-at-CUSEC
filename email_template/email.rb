@@ -1,3 +1,11 @@
+require 'tlsmail'
+require 'time'
+require 'parseconfig'
+
+#
+# Configuration
+#
+
 prof_course = {
   "Dan Ionescu" => ["ionescu@site.uottawa.ca", "SEG4145"],
   "Dimitrios Makrakis" => ["dimitris@site.uottawa.ca", "CEG4190"],
@@ -15,10 +23,20 @@ prof_course = {
   "Emad Gad" => ["egad@eecs.uottawa.ca", "ELG2136"]
 }
 
-def get_email_body(name, email, course)
+email_config = ParseConfig.new('email.conf').params
+from = email_config['from_address']
+password = email_config['password']
+
+#
+# Helpers
+#
+
+def get_email_body(from, name, email, course)
   text = <<-eos
-To : #{email}
-Subject : #{course}, some students will be absent
+From: #{from}
+To: #{email}
+subject: #{course}, some students will be absent
+Date: #{Time.now.rfc2822}
 
 Dear Prof #{name},
 
@@ -31,10 +49,27 @@ __I would kindly ask if you could support student attendance to this conference 
 The delegation is funded by the Faculty of Engineering's and the Engineering Student Society's endowment funds.  The Faculty (of Engineering) Council also passed a motion this Fall supporting students attendance to such conferences.
 
 Thanks for your time, and please let me know if you have any inquiries regarding the conference or the absence of students. If you would like to have a list of students who will miss your class, let me know and I will send you one.  However, please note that registrations are still open, so the list may change.
-  eos
-  return text
+eos
+return text
 end
 
-prof_course.each do |name, details|
-  puts get_email_body(name, details[0], details[1])
+
+#
+# Starts here
+#
+
+Net::SMTP.enable_tls(OpenSSL::SSL::VERIFY_NONE)
+Net::SMTP.start('smtp.gmail.com', 587, 'gmail.com', from, password, :login) do |smtp|
+  prof_course.each do |name, details|
+
+    to = details[0]
+    prof_name = name
+    course_code = details[1]
+
+    content = get_email_body(from, prof_name, to, course_code )
+
+    # send to self for testing (content, from, to) should be there
+    smtp.send_message(content, from, from)
+
+  end
 end
