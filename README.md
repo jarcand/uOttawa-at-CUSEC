@@ -19,7 +19,14 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
     * Unassigned
 * CEG4190
     * Dimitrios Makrakis
-   
+* SEG 2106
+   * Gregor Bochmann
+* SEG 2911
+   * Tim Lethbridge
+* MAT 2377
+   * Karelyn Davis
+* CSI 2101
+   * Viktor Herna
 
 ## Funding
 

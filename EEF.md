@@ -106,7 +106,7 @@ Transportation*    1.13 * 1260$ = 1423.80$
 
 ### Quotations.
 There is only one quotation applicable to this project; the
-transportation.  We contacted _Delaney_, First Student and 417 Bus Line.
+transportation.  We contacted _Delaney_, _First Student_, _417 Bus Line_ and _Leduc_.
 <table>
 <tr>
 	<td>Company</td>
