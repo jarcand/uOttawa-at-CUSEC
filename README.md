@@ -11,7 +11,7 @@ Buy your tickets before December 10 (2012) to get up to 100%* refund.
 [1]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_table.md
 [2]: https://github.com/AntoineGrondin/uOttawa-at-CUSEC/blob/master/cost_per_student.rb
 
-## Courses and Prof that I will contact
+## Courses and Prof that I __already__ have contacted
 
 * Dan Ionescu, SEG4145
 * Dimitrios Makrakis, CEG4190
